@@ -1,0 +1,29 @@
+* {
+  position: absolute;
+}
+
+#pink {
+  background-color: pink;
+  width: 80vw;
+  height: 80vh;
+  left: 10vw;
+  top: 10vh;
+}
+
+.fade {
+  background-color: black;
+  width: 10vw;
+  height: 10vw;
+  top: 30vh;
+}
+
+#sqOne {
+  left: 15vw;
+}
+
+#sqTwo {
+  left: 30vw;
+}
+
+
+
